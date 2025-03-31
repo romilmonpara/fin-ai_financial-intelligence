@@ -4,6 +4,9 @@
 
 The **FinAI Finance Platform** is an advanced web application designed to provide AI-driven insights and analytics for financial data. It leverages machine learning models to process financial information, generate reports, and assist users in making informed investment decisions.
 
+## Hosted Link
+https://fin-ai-financial-intelligence.vercel.app/
+
 ## Features
 
 - **AI-Powered Insights**: Utilize AI models to analyze financial trends and provide predictive insights.
