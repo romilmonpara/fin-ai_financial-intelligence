@@ -69,8 +69,7 @@ This project is licensed under the MIT License.
 
 For any queries, reach out via [romilmonpara4@gmail.com](mailto\:email@example.com) or create an issue in the repository.
 
-
-
+### Make sure to create a `.env` file with following variables -
 ```
 DATABASE_URL=
 DIRECT_URL=
