@@ -1,9 +1,75 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
+# AI Finance Platform
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+## Overview
 
-### Make sure to create a `.env` file with following variables -
+The **FinAI Finance Platform** is an advanced web application designed to provide AI-driven insights and analytics for financial data. It leverages machine learning models to process financial information, generate reports, and assist users in making informed investment decisions.
+
+## Features
+
+- **AI-Powered Insights**: Utilize AI models to analyze financial trends and provide predictive insights.
+- **Real-Time Data Processing**: Fetch and process stock market and cryptocurrency data in real time.
+- **Interactive Dashboards**: Display visual analytics with interactive graphs and charts.
+- **Secure Authentication**: User authentication and role-based access control.
+- **Customizable Alerts**: Receive notifications for significant market changes.
+
+## Technologies Used
+
+- **Frontend**: Next.js, React, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (or an alternative NoSQL database)
+- **AI/ML**: Python (for AI processing), TensorFlow, Scikit-learn
+- **APIs**: Financial market APIs (Yahoo Finance, Alpha Vantage, etc.)
+
+## Installation & Setup
+
+### Prerequisites
+
+- Node.js (v16+)
+- MongoDB (if using a local database)
+- Python (for AI model processing)
+
+### Steps to Run the Project
+
+1. **Clone the repository:**
+   ```sh
+   https://github.com/romilmonpara/fin-ai_financial-intelligence.git
+   ```
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Set up environment variables:**
+   Create a `.env` file in the root directory and add necessary API keys and database credentials.
+4. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+
+## Usage
+
+- Sign up and log in to access AI-driven insights.
+- Navigate to the dashboard to view financial trends.
+- Configure alerts for market fluctuations.
+
+## Contribution
+
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any queries, reach out via [romilmonpara4@gmail.com](mailto\:email@example.com) or create an issue in the repository.
+
+
 
 ```
 DATABASE_URL=
