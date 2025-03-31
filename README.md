@@ -20,7 +20,6 @@ https://fin-ai-financial-intelligence.vercel.app/
 - **Frontend**: Next.js, React, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (or an alternative NoSQL database)
-- **AI/ML**: Python (for AI processing), TensorFlow, Scikit-learn
 - **APIs**: Financial market APIs (Yahoo Finance, Alpha Vantage, etc.)
 
 ## Installation & Setup
