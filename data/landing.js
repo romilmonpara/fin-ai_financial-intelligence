@@ -10,11 +10,11 @@ import {
 // Stats Data
 export const statsData = [
   {
-    value: "50K+",
+    value: "30K+",
     label: "Active Users",
   },
   {
-    value: "$2B+",
+    value: "$1B+",
     label: "Transactions Tracked",
   },
   {
@@ -97,14 +97,14 @@ export const testimonialsData = [
   {
     name: "Romil Monpara",
     role: "Business Owner",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "/black_coder.jpg",
     quote:
       "Welth has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
   },
   {
-    name: "Emily Rodriguez",
+    name: "Bill Gilbert",
     role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    image: "https://randomuser.me/api/portraits/men/17.jpg",
     quote:
       "I recommend Welth to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
   },
