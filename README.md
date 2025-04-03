@@ -17,18 +17,17 @@ https://fin-ai-financial-intelligence.vercel.app/
 
 ## Technologies Used
 
-- **Frontend**: Next.js, React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (or an alternative NoSQL database)
-- **APIs**: Financial market APIs (Yahoo Finance, Alpha Vantage, etc.)
+- **Frontend**: Next.js, Tailwind CSS, ShadCN UI
+- **Backend**: Supabase(Database), Prisma
+- **Authentication**: Clerk
+- **Event Handling & Automation**: Inngest
+- **API Handling & AI Integration**: Arcjet, Gemini AI
 
 ## Installation & Setup
 
 ### Prerequisites
 
 - Node.js (v16+)
-- MongoDB (if using a local database)
-- Python (for AI model processing)
 
 ### Steps to Run the Project
 
